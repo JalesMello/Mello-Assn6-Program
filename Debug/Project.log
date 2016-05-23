@@ -1,0 +1,10 @@
+﻿Build started 5/22/2016 1:28:04 PM.
+     1>Project "E:\Regis University\CS370 - Assembly Language\Programs\Assignment 6\Mello-Assn6-Program\Project.vcxproj" on node 2 (Build target(s)).
+     1>C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V140\Microsoft.CppBuild.targets(392,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (Project.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+     1>Link:
+         Project.vcxproj -> E:\Regis University\CS370 - Assembly Language\Programs\Assignment 6\Mello-Assn6-Program\Debug\Mello-Assn6-Program.exe
+     1>Done Building Project "E:\Regis University\CS370 - Assembly Language\Programs\Assignment 6\Mello-Assn6-Program\Project.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:00.07
